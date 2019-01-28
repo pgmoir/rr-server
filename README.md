@@ -15,5 +15,8 @@ This takes you out to a browser to login, and then when done, return to the cons
 heroku create
 ```
 
-Testing for automatic deploys from master push/merge
+Hooked up heroku to github, and switched on automatic deployments
+
+Url is https://mighty-mountain-13117.herokuapp.com/
+
 
