@@ -15,3 +15,5 @@ This takes you out to a browser to login, and then when done, return to the cons
 heroku create
 ```
 
+Testing for automatic deploys from master push/merge
+
